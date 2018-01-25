@@ -8,9 +8,9 @@
               <Sliderbar></Sliderbar>
             </div>
             <div class="col-md-9">
-              <transition enter-active-class="animated zoomIn" leave-active-class="animated zoomOut">
+              <!-- <transition enter-active-class="animated zoomIn" leave-active-class="animated zoomOut"> -->
                 <router-view class="position"></router-view>
-              </transition>
+              <!-- </transition> -->
             </div>
         </div>
       </div>

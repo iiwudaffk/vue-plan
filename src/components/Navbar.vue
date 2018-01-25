@@ -6,12 +6,14 @@
           <div class="navbar-header">
             <a class="navbar-brand">
               <i class="glyphicon glyphicon-time"></i>
-              计划行程
+              KSCM
             </a>
           </div>
           <ul class="navbar-nav nav">
-            <li><router-link to="/home">首页</router-link></li>
-            <li><router-link to="/time">计划列表</router-link></li>
+            <li><router-link to="/home">Home</router-link></li>
+            <li><router-link to="/time">Time</router-link></li>
+            <li><router-link to="/example">Example</router-link></li>
+            <li><router-link to="/selectcontract">contract</router-link></li>
           </ul>
         </div>
       </div>
